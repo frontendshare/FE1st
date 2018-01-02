@@ -3,5 +3,5 @@
 
 ### *능력단위평가
 
-> *애플리케이션 구현  https://goo.gl/J6WEZb  <br>
-> *화면구현  https://goo.gl/wuydhn
+> *애플리케이션 구현  <a href="https://goo.gl/J6WEZb" target="_blank">https://goo.gl/J6WEZb </a>  <br>
+> *화면구현  <a href="https://goo.gl/wuydhn" target="_blank">https://goo.gl/wuydhn</a>
