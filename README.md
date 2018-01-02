@@ -3,5 +3,5 @@
 
 ### *능력단위평가
 
-애플리케이션 구현   https://goo.gl/J6WEZb
-화면구현           https://goo.gl/wuydhn
+-애플리케이션 구현   https://goo.gl/J6WEZb
+-화면구현           https://goo.gl/wuydhn
